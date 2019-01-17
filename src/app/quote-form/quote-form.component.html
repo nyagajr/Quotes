@@ -4,7 +4,7 @@
             <!-- Name Form -->
             <div class="form-group">
                 <label for="name" class="author">Author</label>
-                <input type="text"  class="form-control" id="name" [(ngModel)]="newQuote.quote" name="name" #name="ngModel" required>
+                <input type="text"  class="form-control" id="name" [(ngModel)]="newQuote.author" name="name" #name="ngModel" required>
 
                 <div [hidden]="name.valid || name.pristine" class="alert alert-danger">
                     <p> Author is Required</p>
