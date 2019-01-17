@@ -1,5 +1,5 @@
-# PIG-dicex
-#### this is a program that is a realtime javascript multiple choice quiz.
+# QUOTES.com
+#### this is a program that takes in quotes from users and outputs them. It has the upvote and downvote functions that helps to show the most liked and disliked quotes
  19/12/18
 #### By
 **BENSON MUCHOKI NYAGA**
